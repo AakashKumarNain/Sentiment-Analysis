@@ -12,5 +12,6 @@ In order to run the notebook, you must have the following things installed:
 * Scikit-learn
 * gensim
 * cython (for doing fast operation using word2vec)
+* The dataset can be downloaded from here [link](https://www.kaggle.com/c/word2vec-nlp-tutorial/data)
 
 In order to run the notebook, open up a terminal and type `jupyter notebook`. This will open the Jupyter notebook app in your default browser. Go to the folder where you have saved this project and simply open the notebook by double clicking it.
